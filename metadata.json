@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow: Behavior-Driven Task Management",
+  "description": "A web-based task management application that combines a Kanban-style interface with integrated behavioral analytics to provide teams with unique productivity insights. Users can manage tasks through a drag-and-drop board, while the system analyzes interaction patterns to offer data-driven optimization suggestions.",
+  "requestFramePermissions": []
+}
